@@ -1,4 +1,4 @@
-# Vivacity data toolkit (dev version)
+# Vivacity data toolkit
 This repository stores notebooks and similar data tools to help you retrieve and/or analyse VivaCity data. 
 
 ## Notebooks
