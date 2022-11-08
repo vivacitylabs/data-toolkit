@@ -10,8 +10,8 @@ The repository contains a collection of notebooks to allow easier data downloads
 Select the notebook you need
 - [Countline Speed bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/countline_speeds_bulk_download_generator.ipynb)
 - [Classified Counts bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/classified_counts_bulk_download_generator.ipynb)
-- [Coming: Journey Times bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/journey_times_bulk_download_generator.ipynb)
-- [Coming: Zonal speeds bulk download]
+- [Journey Times bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/journey_times_bulk_download_generator.ipynb)
+- [Zonal speeds bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/zonal_speeds_bulk_download_generator.ipynb)
 
 Each notebook will run you through all the necessary steps and will save a final csv file in your Google Drive.
 You can also make changes to code (if you wish) or save the notebook to your own Google Drive. 
