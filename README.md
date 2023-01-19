@@ -15,11 +15,10 @@ Select the notebook you need
 - [Turning Counts bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/turning_counts_bulk_download_generator.ipynb)
 - [Dwell Times bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/dwell_times_bulk_download_generator.ipynb)
 
-Each notebook will run you through all the necessary steps and will save a final csv file in your Google Drive.
+Each notebook will run you through all the necessary steps and will save a final csv file locally or in your Google Drive.
 You can also make changes to code (if you wish) or save the notebook to your own Google Drive. 
 
 ### What you need
 
-- A Google account
 - VivaCity API login credentials
 - Countline ids / sensor numbers you want to download data for
