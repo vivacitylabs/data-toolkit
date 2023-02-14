@@ -22,3 +22,12 @@ You can also make changes to code (if you wish) or save the notebook to your own
 
 - VivaCity API login credentials
 - Countline ids / sensor numbers you want to download data for
+
+## Postman Collections
+
+This repository also contains the latest collections of APIs to be used with Postman for testing purposes. The credentials are the same as those you can use with the notebooks.
+
+### What you need
+
+- VivaCity API login credentials
+- [Postman](https://www.postman.com/) 
