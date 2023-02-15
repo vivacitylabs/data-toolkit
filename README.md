@@ -30,8 +30,12 @@ You can also make changes to code (if you wish) or save the notebook to your own
 
 This repository also contains the latest collections of APIs to be used with Postman for testing purposes. Read [this guide](https://vivacitylabs.customerly.help/vivacity-api/api-postman-guide) on how to use Postman to to request small amounts of data via the VivaCity API. You can use the same API user credentials as you do for the notebooks. 
 
+Download both json files and import them into Postman. 
+
 - [VivaCity Postman environment](https://github.com/vivacitylabs/data-toolkit/blob/master/VivaCity%20Environment.postman_environment.json) (json file)
 - [VivaCity Postman collection](https://github.com/vivacitylabs/data-toolkit/blob/master/Vivacity%20API.postman_collection.json) (json file)
+
+Note: For large files, you might need to click `view raw` then right click and `save as` to download locally.
 
 ### What you need
 
