@@ -32,7 +32,7 @@ This repository also contains the latest collections of APIs to be used with Pos
 
 Download both json files and import them into Postman. 
 
-- [VivaCity Postman environment](https://github.com/vivacitylabs/data-toolkit/blob/master/postman-collections/VivaCity%20Environment.postman_environment.json) (json file)
+- [VivaCity Postman environment](https://raw.githubusercontent.com/vivacitylabs/data-toolkit/master/postman-collections/VivaCity%20Environment.postman_environment.json) (json file)
 - [VivaCity Postman collection](https://raw.githubusercontent.com/vivacitylabs/data-toolkit/master/postman-collections/Vivacity%20API.postman_collection.json) (json file)
 
 Note: To download the files, you will need to right click inside the file and select `save as` to save locally. 
