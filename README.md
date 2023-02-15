@@ -1,6 +1,8 @@
 # Vivacity data toolkit
 This repository stores notebooks and similar data tools to help you retrieve and/or analyse VivaCity data. 
 
+<br>
+
 ## Notebooks
 
 The repository contains a collection of notebooks to allow easier data downloads for a number of data features via the API. It is aimed as an **interim solution** while we're working on new dashboard developments. You can contact your customer success manager for more information.
@@ -21,13 +23,17 @@ You can also make changes to code (if you wish) or save the notebook to your own
 ### What you need
 
 - VivaCity API login credentials
-- Countline ids / sensor numbers you want to download data for
+
+<br>
 
 ## Postman Collections
 
-This repository also contains the latest collections of APIs to be used with Postman for testing purposes. The credentials are the same as those you can use with the notebooks.
+This repository also contains the latest collections of APIs to be used with Postman for testing purposes. Read [this guide](https://vivacitylabs.customerly.help/vivacity-api/api-postman-guide) on how to use Postman to to request small amounts of data via the VivaCity API. You can use the same API user credentials as you do for the notebooks. 
+
+- [VivaCity Postman environment](https://github.com/vivacitylabs/data-toolkit/blob/master/VivaCity%20Environment.postman_environment.json) (json file)
+- [VivaCity Postman collection](https://github.com/vivacitylabs/data-toolkit/blob/master/Vivacity%20API.postman_collection.json) (json file)
 
 ### What you need
 
 - VivaCity API login credentials
-- [Postman](https://www.postman.com/) 
+- Postman (free download [here](https://www.postman.com/)) 
