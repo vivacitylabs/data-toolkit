@@ -5,7 +5,7 @@ This repository stores notebooks and similar data tools to help you retrieve and
 
 ## Notebooks
 
-The repository contains a collection of notebooks to allow easier data downloads for a number of data features via the API. It is aimed as an **interim solution** while we're working on new dashboard developments. You can contact your customer success manager for more information.
+Collection of notebooks to allow data downloads for a number of data features via the API for multiple sensors and over multiple days. It is aimed as an **interim solution** while we're working on new dashboard developments. You can contact your customer success manager for more information.
 
 ### How it works
 
