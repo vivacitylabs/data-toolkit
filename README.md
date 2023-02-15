@@ -35,7 +35,7 @@ Download both json files and import them into Postman.
 - [VivaCity Postman environment](https://github.com/vivacitylabs/data-toolkit/blob/master/VivaCity%20Environment.postman_environment.json) (json file)
 - [VivaCity Postman collection](https://github.com/vivacitylabs/data-toolkit/blob/master/Vivacity%20API.postman_collection.json) (json file)
 
-Note: Clicking `download` might open the file in a new tab. Right click in the opened file and select `save as` to download locally.
+Note: To download the files, you will need to right click inside the file and select `save as` to save locally. To view large files, you migth need to click `download` first to view the whole file in a new tab.
 
 ### What you need
 
