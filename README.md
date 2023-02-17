@@ -10,12 +10,12 @@ Collection of notebooks to allow data downloads for a number of data features vi
 ### How it works
 
 Select the notebook you need
-- [Countline Speed bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/countline_speeds_bulk_download_generator.ipynb)
-- [Classified Counts bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/classified_counts_bulk_download_generator.ipynb)
-- [Journey Times bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/journey_times_bulk_download_generator.ipynb)
-- [Zonal speeds bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/zonal_speeds_bulk_download_generator.ipynb)
-- [Turning Counts bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/turning_counts_bulk_download_generator.ipynb)
-- [Dwell Times bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/dwell_times_bulk_download_generator.ipynb)
+- [Countline Speed bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/notebooks/countline_speeds_bulk_download_generator.ipynb)
+- [Classified Counts bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/notebooks/classified_counts_bulk_download_generator.ipynb)
+- [Journey Times bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/notebooks/journey_times_bulk_download_generator.ipynb)
+- [Zonal speeds bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/notebooks/zonal_speeds_bulk_download_generator.ipynb)
+- [Turning Counts bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/notebooks/turning_counts_bulk_download_generator.ipynb)
+- [Dwell Times bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/notebooks/dwell_times_bulk_download_generator.ipynb)
 
 Each notebook will run you through all the necessary steps and will save a final csv file locally or in your Google Drive.
 You can also make changes to code (if you wish) or save the notebook to your own Google Drive. 
