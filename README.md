@@ -10,7 +10,7 @@ Collection of notebooks to allow data downloads for a number of data features vi
 ### How it works
 
 Select the notebook you need
-- [Countline Speed bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/notebooks/countline_speeds_bulk_download_generator_v2.ipynb)
+- [Countline Speed bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/notebooks/countline_speeds_bulk_download_generator.ipynb)
 - [Classified Counts bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/notebooks/classified_counts_bulk_download_generator.ipynb)
 - [Journey Times bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/notebooks/journey_times_bulk_download_generator.ipynb)
 - [Zonal speeds bulk download](https://github.com/vivacitylabs/data-toolkit/blob/master/notebooks/zonal_speeds_bulk_download_generator.ipynb)
