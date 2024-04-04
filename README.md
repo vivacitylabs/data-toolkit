@@ -29,7 +29,7 @@ You can also make changes to code (if you wish) or save the notebook to your own
 
 ## Postman Collections
 
-This repository also contains the latest collections of APIs to be used with Postman for testing purposes. Read [this guide](https://vivacitylabs.customerly.help/vivacity-api/api-postman-guide) on how to use Postman to to request small amounts of data via the VivaCity API. You can use the same API user credentials as you do for the notebooks. 
+This repository also contains the latest collections of APIs to be used with Postman for testing purposes. Read [this guide](https://vivacitylabs.atlassian.net/wiki/spaces/PKB/pages/2600173735/Using+Postman) on how to use Postman to to request small amounts of data via the VivaCity API. You can use the same API user credentials as you do for the notebooks. 
 
 Copy the links into Postman. 
 
